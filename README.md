@@ -1,1 +1,3 @@
-"# Job-Agent" 
+# Job Agent
+
+Automate applying to jobs
